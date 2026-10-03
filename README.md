@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of manaszon/flarum-ext-hungarian.** Not for installation: use [Packagist](https://packagist.org/packages/manaszon/flarum-ext-hungarian) or the [upstream repository](https://github.com/manaszon/flarum-ext-hungarian).
 
-**0** versions archived · Latest: [`v1.3.0`](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**4** versions archived · Latest: [`v1.3.0`](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.3.0) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0b` | 2018-02-05 | `^0.1.0-beta.7` | [Browse](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.0b) |
+| `v1.2` | 2019-01-06 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.2) |
+| `v1.2.1` | 2019-01-14 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.2.1) |
+| `v1.3.0` | 2020-04-12 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/manaszon-flarum-ext-hungarian/tree/archive/v1.3.0) |
 
 Catalog entry: [packages/manaszon-flarum-ext-hungarian.json](https://github.com/flarchive/archive-index/blob/main/packages/manaszon-flarum-ext-hungarian.json)
 
